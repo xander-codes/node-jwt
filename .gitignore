@@ -1,0 +1,8 @@
+node_modules
+
+.idea/
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/node-jwt.iml
+:
+TestLowDb.js
